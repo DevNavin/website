@@ -15,7 +15,7 @@ class Sidebar extends Component {
             <div className="sidebar">
                 <div style={{ color: 'black', fontWeight: 'bold' }} className="tagtop"> # programmer_life </div>
                 <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # hello_world </div>
-                <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # coding </div>
+                <div style={{ color: 'black', fontWeight: 'bold' }} className=""> # UI designer </div>
                 <h1><Link smooth to="/#start" className="h1_links">Navin S</Link></h1>
 
                 <img src={logo} />
